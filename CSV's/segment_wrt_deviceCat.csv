@@ -1,0 +1,4 @@
+,device_category,total_sessions,product_view_sessions,add_to_cart_sessions,purchase_sessions,view_to_cart_percentage,cart_to_purchase_percentage,view_to_purchase_percentage,avg_view_to_cart_sec,avg_cart_to_purchase_sec
+0,desktop,51993,48009,21811,5774,45.43,26.47,12.03,52.14113277623027,759.440807799443
+1,tablet,2140,1995,702,74,35.19,10.54,3.71,101.77551020408163,968.1428571428573
+2,mobile,16442,15460,5198,503,33.62,9.68,3.25,86.35026737967912,819.5882352941179

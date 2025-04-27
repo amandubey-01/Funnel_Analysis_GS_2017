@@ -1,0 +1,70 @@
+,product_category,price_bucket,total_sessions,product_view_sessions,add_to_cart_sessions,purchase_sessions,view_to_cart_percentage,cart_to_purchase_percentage,view_to_purchase_percentage,avg_view_to_cart_sec,avg_cart_to_purchase_sec
+0,${escCatTitle},High,15847,8837,27245,0,308.31,0.0,0.0,42.48,741.78
+1,${productitem.product.origCatName},High,190,0,0,450,,,,,
+2,Accessories,High,60,0,0,136,,,,,
+3,Android,High,28,0,0,56,,,,,
+4,Apparel,High,4112,0,0,18816,,,,,
+5,Backpacks,High,51,0,0,110,,,,,
+6,Bags,High,808,0,0,2086,,,,,
+7,Bottles,High,139,0,0,302,,,,,
+8,Bottles/,High,10,27,5,0,18.52,0.0,0.0,129.67,395.0
+9,Drinkware,High,1308,0,0,3677,,,,,
+10,Electronics,High,552,0,0,1464,,,,,
+11,Fun,High,67,0,0,150,,,,,
+12,Gift Cards,High,40,0,0,162,,,,,
+13,Google,High,91,0,0,184,,,,,
+14,Headgear,High,380,0,0,902,,,,,
+15,Home/Accessories/,High,1676,2559,813,0,31.77,0.0,0.0,29.56,1017.77
+16,Home/Accessories/Fun/,High,2982,4884,1582,0,32.39,0.0,0.0,82.64,913.49
+17,Home/Accessories/Housewares/,High,802,1116,265,0,23.75,0.0,0.0,82.43,569.11
+18,Home/Accessories/Pet/,High,579,896,429,0,47.88,0.0,0.0,27.62,654.0
+19,Home/Accessories/Sports & Fitness/,High,648,896,138,0,15.4,0.0,0.0,131.07,398.0
+20,Home/Accessories/Stickers/,High,4163,7623,2768,0,36.31,0.0,0.0,49.61,894.61
+21,Home/Apparel/,High,1713,2844,678,0,23.84,0.0,0.0,67.2,925.2
+22,Home/Apparel/Headgear/,High,3070,5543,1296,0,23.38,0.0,0.0,64.54,753.84
+23,Home/Apparel/Kid's/,High,428,1036,192,0,18.53,0.0,0.0,98.73,838.32
+24,Home/Apparel/Kid's/Kid's-Infant/,High,1246,2674,1347,0,50.37,0.0,0.0,53.35,610.84
+25,Home/Apparel/Kid's/Kid's-Toddler/,High,767,1388,546,0,39.34,0.0,0.0,78.07,707.9
+26,Home/Apparel/Kid's/Kids-Youth/,High,1109,2275,764,0,33.58,0.0,0.0,63.66,763.19
+27,Home/Apparel/Men's/,High,2385,4409,1223,0,27.74,0.0,0.0,71.96,787.52
+28,Home/Apparel/Men's/Men's-Outerwear/,High,4827,9619,1539,0,16.0,0.0,0.0,83.13,570.61
+29,Home/Apparel/Men's/Men's-Performance Wear/,High,1175,2285,364,0,15.93,0.0,0.0,85.43,772.75
+30,Home/Apparel/Men's/Men's-T-Shirts/,High,7265,13838,3959,0,28.61,0.0,0.0,75.19,728.33
+31,Home/Apparel/Women's/,High,943,1732,514,0,29.68,0.0,0.0,73.69,628.98
+32,Home/Apparel/Women's/Women's-Outerwear/,High,1369,2528,437,0,17.29,0.0,0.0,71.96,510.19
+33,Home/Apparel/Women's/Women's-Performance Wear/,High,604,1119,155,0,13.85,0.0,0.0,103.08,760.22
+34,Home/Apparel/Women's/Women's-T-Shirts/,High,2051,3913,1379,0,35.24,0.0,0.0,53.28,721.01
+35,Home/Bags/,High,4058,7711,903,0,11.71,0.0,0.0,112.26,973.32
+36,Home/Bags/Backpacks/,High,5629,11486,872,0,7.59,0.0,0.0,105.38,583.18
+37,Home/Bags/More Bags/,High,1469,2467,442,0,17.92,0.0,0.0,103.86,862.45
+38,Home/Bags/Shopping and Totes/,High,1165,1864,504,0,27.04,0.0,0.0,59.79,664.48
+39,Home/Clearance Sale/,High,107,436,79,0,18.12,0.0,0.0,15.27,791.25
+40,Home/Drinkware/,High,2546,4557,1062,0,23.3,0.0,0.0,45.23,817.49
+41,Home/Drinkware/Mugs and Cups/,High,2060,3054,1041,0,34.09,0.0,0.0,32.01,792.53
+42,Home/Drinkware/Water Bottles and Tumblers/,High,2994,5483,1780,0,32.46,0.0,0.0,51.62,658.8
+43,Home/Electronics/,High,2680,4933,504,0,10.22,0.0,0.0,98.92,841.71
+44,Home/Electronics/Audio/,High,2890,5125,610,0,11.9,0.0,0.0,108.16,738.17
+45,Home/Electronics/Electronics Accessories/,High,1255,1966,409,0,20.8,0.0,0.0,53.47,847.1
+46,Home/Electronics/Flashlights/,High,854,1673,159,0,9.5,0.0,0.0,106.39,805.5
+47,Home/Electronics/Power/,High,1388,2725,216,0,7.93,0.0,0.0,159.69,907.37
+48,Home/Gift Cards/,High,393,817,191,0,23.38,0.0,0.0,52.4,324.27
+49,Home/Office/,High,1465,2442,780,0,31.94,0.0,0.0,40.66,997.47
+50,Home/Office/Notebooks & Journals/,High,2870,5277,1175,0,22.27,0.0,0.0,101.81,680.71
+51,Home/Office/Office Other/,High,779,1020,453,0,44.41,0.0,0.0,58.89,875.78
+52,Home/Office/Writing Instruments/,High,1909,3435,1416,0,41.22,0.0,0.0,49.95,773.65
+53,Home/Shop by Brand/,High,345,497,80,0,16.1,0.0,0.0,48.16,578.33
+54,Home/Shop by Brand/Android/,High,1050,1994,327,0,16.4,0.0,0.0,67.0,695.52
+55,Home/Shop by Brand/Google/,High,1768,3025,580,0,19.17,0.0,0.0,70.39,727.23
+56,Home/Shop by Brand/Waze/,High,23,36,8,0,22.22,0.0,0.0,18.0,
+57,Home/Shop by Brand/YouTube/,High,8718,18425,3965,0,21.52,0.0,0.0,63.25,725.67
+58,Home/Spring Sale!/,High,94,264,23,0,8.71,0.0,0.0,78.48,843.0
+59,Housewares,High,71,0,0,150,,,,,
+60,Lifestyle,High,814,0,0,3092,,,,,
+61,Lifestyle/,High,4,13,1,0,7.69,0.0,0.0,16.0,
+62,More Bags,High,35,0,0,84,,,,,
+63,Mugs/,High,5,6,1,0,16.67,0.0,0.0,12.0,
+64,Notebooks & Journals,High,284,0,0,692,,,,,
+65,Office,High,1874,0,0,7452,,,,,
+66,Tumblers/,High,1,2,0,0,0.0,,0.0,,
+67,Waze,High,174,0,0,446,,,,,
+68,Wearables/Men's T-Shirts/,High,44,95,13,0,13.68,0.0,0.0,53.55,1612.0

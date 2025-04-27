@@ -1,0 +1,12 @@
+,ordered_actions,session_count
+0,['Product View'],22464
+1,['Product View' 'Product View'],8315
+2,['Product View' 'Add to Cart'],5658
+3,['Product View' 'Product View' 'Product View'],4802
+4,['Add to Cart'],2594
+5,['Product View' 'Product View' 'Product View' 'Product View'],2448
+6,['Product View' 'Product View' 'Add to Cart'],1361
+7,"['Product View' 'Product View' 'Product View' 'Product View'
+ 'Product View']",1297
+8,['Product View' 'Add to Cart' 'Product View' 'Add to Cart'],1017
+9,['Product View' 'Add to Cart' 'Purchase' 'Purchase'],971
